@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-04-06T13:18:23.970Z",
-  "commit": "2680a427f0f15182ce559bdab620a1c6d463c3f3",
+  "lastUpdated": "2026-04-07T03:49:04.848Z",
+  "commit": "3308701b341f5b4d7007d5bca97cbbb6e4af222f",
   "branch": "main",
   "type": "e2e",
   "worlds": {
     "local": {
       "status": "passing",
-      "total": 85,
-      "passed": 77,
+      "total": 86,
+      "passed": 78,
       "failed": 0,
       "skipped": 8,
       "frameworks": {
         "nextjs-turbopack": {
-          "total": 85,
-          "passed": 77,
+          "total": 86,
+          "passed": 78,
           "failed": 0
         }
       },
