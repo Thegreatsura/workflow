@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-04-21T09:56:30.866Z",
-  "commit": "b27921985cd36b550e3675032ae1dcdf7223efbd",
+  "lastUpdated": "2026-04-22T04:17:48.469Z",
+  "commit": "354840e93b46e2eae29d4b1f936b04a92db1890e",
   "branch": "main",
   "type": "e2e",
   "worlds": {
     "local": {
-      "status": "partial",
+      "status": "passing",
       "total": 2565,
-      "passed": 2379,
-      "failed": 2,
+      "passed": 2381,
+      "failed": 0,
       "skipped": 184,
       "frameworks": {
         "astro": {
@@ -18,8 +18,8 @@
         },
         "express": {
           "total": 190,
-          "passed": 177,
-          "failed": 1
+          "passed": 178,
+          "failed": 0
         },
         "fastify": {
           "total": 190,
@@ -58,8 +58,8 @@
         },
         "vite": {
           "total": 190,
-          "passed": 177,
-          "failed": 1
+          "passed": 178,
+          "failed": 0
         }
       },
       "progress": 93
