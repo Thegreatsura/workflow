@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-01T06:03:13.927Z",
-  "commit": "1ee63b870afbf9754eb1022b1bb5f02d0ab042f9",
+  "lastUpdated": "2026-06-02T08:44:54.713Z",
+  "commit": "275316fac4c1d03f61978078bb70c813a3fcf89b",
   "branch": "main",
   "type": "e2e",
   "worlds": {
@@ -23,8 +23,8 @@
         },
         "fastify": {
           "total": 272,
-          "passed": 219,
-          "failed": 1
+          "passed": 220,
+          "failed": 0
         },
         "hono": {
           "total": 272,
