@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-02T08:44:54.713Z",
-  "commit": "275316fac4c1d03f61978078bb70c813a3fcf89b",
+  "lastUpdated": "2026-06-03T08:50:03.247Z",
+  "commit": "12c35b54ebf3d3c9fbc30462b42b05e5ce476a2b",
   "branch": "main",
   "type": "e2e",
   "worlds": {
@@ -13,8 +13,8 @@
       "frameworks": {
         "astro": {
           "total": 272,
-          "passed": 220,
-          "failed": 0
+          "passed": 219,
+          "failed": 1
         },
         "express": {
           "total": 272,
